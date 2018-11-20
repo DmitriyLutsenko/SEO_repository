@@ -1,0 +1,30 @@
+.btn-class, .tfield-class, .select-class, .result-class, .request-class {
+ display: inline-block;
+ border: 4px double black;
+ color: #000;
+ border-radius: 3px 3px 3px 3px;
+ -webkit-border-radius: 3px 3px 3px 3px;
+ -moz-border-radius: 3px 3px 3px 3px;
+ font-family: Arial Black;
+ width: auto;
+ height: auto;
+ font-size: 26px;
+ padding: 10px 40px;
+ text-shadow: 0 1px 0 #000;
+ background-image: linear-gradient(to top, #F5F4F6, #D4F3D4);
+ 
+}
+
+.request-class {
+
+   width: 100%;
+   text-align: center;
+
+}
+
+.btn-class {
+	
+margin-left: auto;
+margin-top: auto;
+}
+á
